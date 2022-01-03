@@ -1,6 +1,6 @@
 ## WhiteHat-Crew-CTF2022
 
-## Hi there, let's get a coffee before we start:coffee:
+## Hi there, let's get a coffee before we start :coffee:
 
 ## ScoreBoard
 ![image](https://i.ibb.co/7KxCPDy/lala.jpg)
