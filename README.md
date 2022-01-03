@@ -84,3 +84,7 @@ http://torpastezr7464pevuvdjisbvaf4yqi4n7sgz7lkwgqwxznwy5duj4ad.onion/aRr1wftJbe
 THIS ROOM IS PURELY OPTIONAL IF YOU ARE NOT COMFORTABLE GOING INTO DARK WEB. PLEASE USE VPN + TOR UPON VISITTING THE SITE
 
 Flag: ```WHC{D4RK_W3B_B3G1NN3R}```
+
+![images](https://i.ibb.co/pjgBKxd/147886503-b1cde24b-a154-4759-83a0-00ff3d67b253-1.png)
+
+
