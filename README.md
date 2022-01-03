@@ -141,13 +141,63 @@ Flag: ```WHC{X0R40BFUSC4T10N}```
 
 ![images](https://i.ibb.co/c84cFsP/xor.jpg)
 
-2. encode Xor
+2. decode Xor
 
 ![images](https://i.ibb.co/x2tJ5Wg/xor2.jpg)
 
 
 ### Malware:
-#### 1.
+#### 1. Malware A - 1
+
+A "not-so-good" developer brought aboard disaster to a common programming language and you guessed it, someone exploit it to create malware.
+
+What is the file SHA256 hash? WHC{SHA256}
+
+WARNING: RUN THE INSPECTION UNDER ISOLATED VIRTUAL MACHINE AS THESE SAMPLES MIGHT STILL BE ACTIVE Pass : infected or WHITEHATCREW
+
+![images](https://i.ibb.co/8cz2TFB/malware-a-1.jpg)
+
+#### 2. Malware A - 2
+What is the threat name, hosts and classification?
+
+Format : WHC{threat name|hosts|classification}
+
+[virus total](https://www.virustotal.com/gui/file/ba47f657a4745c96a62c444100d6c38bbff772b47ac03e83dc3ef5d94bc1d77c/community)
+
+![images](https://i.ibb.co/x8kvbPM/test.jpg)
+
+#### 3. Malware a-3
+What is the Static File Name? Format: WHC{name.exe}
+
+Flag: ```WHC{0kEuVjiCbh.exe}```
+
+![images](https://i.ibb.co/br9zcnt/virus.jpg)
+
+#### 4. Malware b-1
+Lurks in P2P Malignant
+
+What is the name of dropped file process name and it's SHA256? Format: WHC{process:SHA256}
+
+WARNING: RUN THE INSPECTION UNDER ISOLATED VIRTUAL MACHINE AS THESE SAMPLES MIGHT STILL BE ACTIVE Pass : infected
+
+Flag: ```WHC{services.exe:bf316f51d0c345d61eaee3940791b64e81f676e3bca42bad61073227bee6653c}```
+
+![images](https://i.ibb.co/CbPXxwZ/virus2.jpg)
+
+#### 4. Malware b-2
+According to JoeSandBox, what is the type of 'Behavior and API' it have?
+
+Example Format: WHC{UPX_Packer} ; put underscore ' _ ' between two words
+
+Flag: ```WHC{API_Interceptor}```
+
+
+
+
+
+
+
+
 
 
 
