@@ -113,8 +113,35 @@ Flag: ```WHC{APA_KAITAN_DO}```
 
 ![images](https://i.ibb.co/bFLNSKT/anen2.jpg)
 
-3. 
+3. Decode Brainfuck
 
+![images](https://i.ibb.co/HtSxJf1/brain.jpg)
+
+4. Decode base64
+
+![images](https://i.ibb.co/xz1SVRV/encode2.jpg)
+
+#### 3. Botak
+An old uncle is so tired trying to get his password came to you, he forgot his password. Can you try to brute force his password back?
+
+Flag: ```WCH{unclePenatLahSiapaBuatNiMemangNakKenaPukul}```
+
+![images](https://i.ibb.co/r05t8YF/botak.jpg)
+
+Decode Caesar Chipher
+
+![images](https://i.ibb.co/gTyFwKf/cae.jpg)
+
+#### 4. Xoring
+XOR is one of the common way to obfuscate programs and malware from being detect by Anti-Virus Vendor or Yara Rules. By hiding itself from showing and match a certain ruleset, it can flag as malicious file easily to be alert and remove hence XOR is one of the technique used.
+
+Flag: ```WHC{X0R40BFUSC4T10N}```
+
+1. read file
+
+![images](https://i.ibb.co/c84cFsP/xor.jpg)
+
+2. encode Xor
 
 
 
