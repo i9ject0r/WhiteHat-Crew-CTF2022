@@ -20,4 +20,5 @@ What does the text said, and what number is the item number is the text? How man
 Flag Format i.e : WHC{36:Hello it's me}
 
 Flag: ```WHC{4:What, me worry?}```
-![images](https://i.ibb.co/9st8J9V/beginer-forensic.jpg)
+
+![images](https://i.ibb.co/y4yMprr/forensic-biginer.jpg)
