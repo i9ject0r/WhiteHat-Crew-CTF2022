@@ -22,3 +22,20 @@ Flag Format i.e : WHC{36:Hello it's me}
 Flag: ```WHC{4:What, me worry?}```
 
 ![images](https://i.ibb.co/y4yMprr/forensic-biginer.jpg)
+
+### 2. Penceroboh1
+WhoRWe
+WHC{user:pass}
+user starts with: a
+pass: WHITEHATCREW
+Flag: ```WHC{aoursler:Id10tExpert}```
+
+![images](https://i.ibb.co/KwdF8p6/pen1.png)
+
+### 3. Penceroboh2
+WhoRWe
+WHC{user:pass}
+user starts with: b
+Flag: ```WHC{brodgers:TheyPlayedWithGreatCharacter}
+
+![images](https://i.ibb.co/KwdF8p6/pen1.pn)
