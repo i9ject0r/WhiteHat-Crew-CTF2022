@@ -57,3 +57,30 @@ WHC{user:pass}
 Flag: ```WHC{dmoyes:IAmAFootballGeniusowh okay}```
 
 ![images](https://i.ibb.co/Lp4LvhB/pen3.jpg)
+
+### 4. Topi Putih
+Apa makna topi putih?
+
+Pass : WHITEHATCREW
+
+Flag: ```WHC{wh1t3_h4t_cr3w!}```
+
+![images](https://i.ibb.co/grjVd3J/topi.jpg)
+
+### 5.  A walk in the park 204 
+Classical! Easy just like a walk in the park.
+
+Flag: ```WHC{THE_CLASSIC_STEGANOGRAPHY_EH)```
+
+![images](https://i.ibb.co/k4zP0Tg/meme.jpg)
+
+## Dark Web:
+
+### 1. TorPaste
+We found a dangerous information on the Darknet. Can you please try to obtain the info?
+
+http://torpastezr7464pevuvdjisbvaf4yqi4n7sgz7lkwgqwxznwy5duj4ad.onion/aRr1wftJbeX7cMjQ/
+
+THIS ROOM IS PURELY OPTIONAL IF YOU ARE NOT COMFORTABLE GOING INTO DARK WEB. PLEASE USE VPN + TOR UPON VISITTING THE SITE
+
+Flag: ```WHC{D4RK_W3B_B3G1NN3R}```
