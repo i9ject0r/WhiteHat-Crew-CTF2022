@@ -45,7 +45,7 @@ user starts with: b
 
 Flag:  ```WHC{brodgers:TheyPlayedWithGreatCharacter}```
 
-![images](https://i.ibb.co/KwdF8p6/pen1.png)
+![images](https://i.ibb.co/tz5Bp6G/pen2.png)
 
 ### 4. Penceroboh3
 WhoRWe
