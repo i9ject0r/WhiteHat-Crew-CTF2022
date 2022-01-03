@@ -143,6 +143,11 @@ Flag: ```WHC{X0R40BFUSC4T10N}```
 
 2. encode Xor
 
+![images](https://i.ibb.co/x2tJ5Wg/xor2.jpg)
+
+
+### Malware:
+#### 1.
 
 
 
