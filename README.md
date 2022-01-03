@@ -203,7 +203,6 @@ Read file r4nsom.py
 ![images](https://i.ibb.co/QcKWxdM/ransom.jpg)
 
 find encryption key to decrypt Fernet.generate_key() in azman folder,
-now we founds ```IMG_043```
 
 ![images](https://i.ibb.co/QQ9YKxT/ransom2.jpg)
 
